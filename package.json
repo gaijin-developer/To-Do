@@ -1,0 +1,21 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "this is a simple full stack todo app to record activities planned",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "plans"
+  ],
+  "author": "Frank Entsie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaijin-developer/To-Do/issues"
+  },
+  "homepage": "https://github.com/gaijin-developer/To-Do#readme"
+}
